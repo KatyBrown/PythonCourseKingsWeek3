@@ -1,0 +1,4 @@
+Name	Age	Location
+Katy	33	Cambridge
+Mary	75	London
+Bob	44	Oxford
