@@ -1,0 +1,15 @@
+	Name	Age	Score	Score_Percentage	Grade	Final_Grade	Random_ID
+0	Jim	15	40.8	81.6	A	A	9526
+1	Mary	24	10.0	20.0	C	C	7541
+2	Hank	17	25.2	50.4	C	C	2409
+3	Billy	31	48.4	96.8	A	A	9274
+4	Jane	33	27.0	54.0	C	C	1838
+5	Samantha	33	30.9	61.8	B	B	4888
+6	Jean	41	12.1	24.2	C	C	5593
+7	Betty	84	5.2	10.4	C	C	1253
+8	Alice	10	8.3	16.6	C	C	5330
+9	Anne	16	47.4	94.8	A	A	4787
+10	Clare	25	30.7	61.4	B	B	1456
+11	Adam	21	20.1	40.2	C	C	8304
+12	Andrew	66	19.4	38.8	C	C	6425
+13	Charlotte	20	23.1	46.2	C	C	2617
